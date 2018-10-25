@@ -1,0 +1,8 @@
+syntax: glob
+projects/xcode/Build
+projects/xcode/DerivedData
+projects/xcode/poc-gc.xcodeproj/project.xcworkspace/xcuserdata
+projects/xcode/poc-gc.xcodeproj/xcuserdata
+projects/vs/.vs/
+projects/vs/x64/
+projects\vs\poc-gc.vcxproj.user
